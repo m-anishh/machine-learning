@@ -1,0 +1,22 @@
+ip4 impurity
+gini impurity 50/50
+
+
+
+
+
+
+
+entropy
+information gain 
+tree purning 
+overfitting -prepuring and postpurning 
+
+
+
+random 
+gradiant binary 
+adabuot
+
+
+
